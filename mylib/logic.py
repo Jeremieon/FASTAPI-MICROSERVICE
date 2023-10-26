@@ -1,5 +1,6 @@
 import wikipedia
-from text.blob import TextBlob
+#from text.blob import TextBlob
+from textblob import TextBlob
 
 
 def wiki(name="War Goddess", length=1):
